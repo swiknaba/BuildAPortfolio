@@ -1,0 +1,18 @@
+---------------
+ Documentation
+---------------
+Name: BuildAPortfolio
+Copyright:
+    - Ludwig Reinmiedl (code, all pictures)
+    - udacity (design-mockup-portfolio.pdf)
+    - Twitter (bootstrap css)
+Author: Ludwig Reinmiedl
+Contact: ludwigreinmiedl (at) gmail.com
+Version: 16.01.2016
+
+grunt-cli: v1.2.0
+grunt: v0.4.5
+grunt-uncss: v0.6.1
+
+Build a simple HTML/CSS website based on the given design mockup.
+Using grunt to tidy up bootstrap css, achievment: 121.25 kB -> 3.44 kB
